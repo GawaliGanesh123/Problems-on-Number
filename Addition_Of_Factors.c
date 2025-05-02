@@ -1,7 +1,7 @@
 /*
     Accept One Number from user and print Addition of all Factors of that number.
 
-    Input-10
+    Input-10    (1+2+5+10)
     Output-18
 
 */
