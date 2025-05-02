@@ -1,16 +1,15 @@
-/* 
-   Accept on number from user and print addition of all numbers from one to user entered number.
+/* Accept on number from user and print addition of all numbers from one to user entered number.
 
-   Input- 5 
+   Input- 5 (1+2+3+4+5)
    Output-15
 
    Input-10
    Output-55
-*/   
+*/  
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 #include<stdio.h>
-
 
 void Addition(int iNo)
 {
