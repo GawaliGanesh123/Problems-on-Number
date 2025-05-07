@@ -1,6 +1,4 @@
-/*
-
-  Accept One number from user and check given number is Even or Odd.
+/*  Accept One number from user and check given number is Even or Odd.
 
   Input-6
   Output- Number is Even.
@@ -9,6 +7,7 @@
   Output-Number is Odd.
 
 */
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 #include<stdio.h>
