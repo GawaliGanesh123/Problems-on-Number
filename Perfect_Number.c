@@ -1,14 +1,12 @@
-/*
-
-Accept Number from user and check whether number perfect or not.
+/* Accept Number from user and check whether number perfect or not.
 
 Input- 25
 Ouput- Not Perfect Number
 
 Input- 6
 Output - Perfec Number
-
 */
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<stdio.h>
 #include<stdbool.h>
