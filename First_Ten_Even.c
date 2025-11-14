@@ -3,7 +3,7 @@
 
 #include<stdio.h>
 
-
+ 
 int main()
 {
     int iCnt=0;
@@ -17,4 +17,5 @@ int main()
     }
 
 	return 0;
+
 }
