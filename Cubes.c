@@ -6,7 +6,7 @@
 
 int main()
 {
-    int iCnt=0;
+    int iCnt=0; 
 
     for(iCnt=1; iCnt<=10; iCnt++)
     {
@@ -14,4 +14,5 @@ int main()
     }
 
 	return 0;
+
 }
